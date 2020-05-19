@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Changes from gitrepo");
+        System.out.println("Changes from localrepo");
 
     }
 }
